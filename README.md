@@ -7,7 +7,7 @@ I'm a Neuroscience Graduate from the University of Rochester.
 - My Tech Stack uses React.js, Tailwind CSS, and daisyUI.
 - Currently working on a portfolio website as well as some personal projects.
   
-### For data analysis I have experience in Python, Matlab, and Javascript.
+### For data analysis I have experience in Python and Matlab.
 - Using Scikit to create algorithms and Matplotlib to visualize the data.
 - Developing new algorithm using NuSVC.
 
