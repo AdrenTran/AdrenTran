@@ -1,16 +1,12 @@
-### Hi there 👋
+# Hello! Welcome to my personal Github Page. 
+## Reach out to me about any job oppurtunities, advice or project ideas!
+  - I'm a Neuroscience Graduate from the University of Rochester.
+  - My goal is to create responsive webpages that present new EEG Machine Learning breakthroughs.
 
-<!--
-**AdrenTran/AdrenTran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### For web development I have experience in Javascript, CSS, HTML.
+  - My Tech Stack uses React.js, Tailwind CSS, and daisyUI.
+  - Currently working on a portfolio website as well as some personal projects.
+  
+### For data analysis I have experience in Python, Matlab, and Javascript.
+  - Using Scikit to create algorithms and Matplotlib to visualize the data.
+  - Developing new algorithm using NuSVC.
