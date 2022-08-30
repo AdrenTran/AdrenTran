@@ -1,4 +1,4 @@
-# Hello! Welcome to my personal Github Page. 
+# Hello! Welcome to my personal Github page. 
 
 I'm a Neuroscience Graduate from the University of Rochester. 
 - My goal is to create responsive webpages that present new EEG Machine Learning breakthroughs.
