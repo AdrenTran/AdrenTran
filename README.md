@@ -1,5 +1,5 @@
 # Hello! Welcome to my personal Github Page. 
-## Reach out to me about any job oppurtunities, advice or project ideas!
+### Reach out to me about any job opportunities, advice or project ideas!
 I'm a Neuroscience Graduate from the University of Rochester.
 My goal is to create responsive webpages that present new EEG Machine Learning breakthroughs.
 
